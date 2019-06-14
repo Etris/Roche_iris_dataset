@@ -7,4 +7,3 @@ matplotlib
 scipy
 patsy
 statsmodels
-picle
